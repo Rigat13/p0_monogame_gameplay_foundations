@@ -3,7 +3,7 @@
 
 Equip: Carles Rigat Almansa
 
-#### Enllaç a vídeo: 
+#### Enllaç a vídeo: https://youtu.be/Fmit3RPir5E
 #### Diagrama UML simplificat de la solució: 
 ![image](https://user-images.githubusercontent.com/60795194/226261082-e70d2021-1ca0-412e-b8d2-c246aff83546.png)
 
