@@ -5,6 +5,7 @@ Equip: Carles Rigat Almansa
 
 #### Enllaç a vídeo: 
 #### Diagrama UML simplificat de la solució: 
+![image](https://user-images.githubusercontent.com/60795194/226261082-e70d2021-1ca0-412e-b8d2-c246aff83546.png)
 
 #### Document explicatiu del procés seguit: https://docs.google.com/document/d/1IIBV_3RcDLFvP8xz-30eRjDfQWghzB2kjUQbJOt-egQ/edit?usp=sharing
 
